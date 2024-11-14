@@ -1,0 +1,15 @@
+{
+    "name": "Victor Ulloa",
+    "age": 11,
+    "city": "Denver, CO",
+    "interests": [
+        "Traveling",
+        "Hiking",
+        "Photography",
+        "Running",
+        "Music",
+        "Working out",
+        "Kayaking"
+    ],
+    "is_student": true
+}
